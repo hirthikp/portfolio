@@ -102,7 +102,7 @@ export default function App() {
               <div className="w-56 h-56 mb-8 rounded-3xl border border-border overflow-hidden bg-card-bg flex items-center justify-center">
                 {!hasPhotoError ? (
                   <img
-                    src="/IMG_7592.jpg"
+                    src="/IMG_7592.JPG"
                     alt={`${resumeData.name} profile`}
                     className="w-full h-full object-cover"
                     onError={() => setHasPhotoError(true)}
