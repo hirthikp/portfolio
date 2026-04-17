@@ -2,7 +2,7 @@
 
 AI & Cloud Developer focused on building intelligent automation systems and scalable backend applications.
 
-## 🚀 Projects
+##  Projects
 
 ### AI Recruitment Platform
 - Automated resume screening using LLM-based semantic matching
