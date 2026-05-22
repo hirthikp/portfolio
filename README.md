@@ -1,22 +1,23 @@
-# Hirthik P – Portfolio
+# Hirthik Portfolio
 
-AI & Cloud Developer focused on building intelligent automation systems and scalable backend applications.
+Personal portfolio showcasing my projects in AI, cloud, and full-stack development.
 
-##  Projects
+## Projects
 
 ### AI Recruitment Platform
-- Automated resume screening using LLM-based semantic matching
+- AI-based resume screening and ranking system
 - Built with React, Supabase, and Google Gemini API
-- Achieved 90%+ matching accuracy
 
 ### LLMOps Pipeline
-- Automated evaluation pipeline for LLM prompts
-- FastAPI backend with Docker and PostgreSQL
-- Focus on hallucination detection and response quality
+- Automated evaluation system for LLM prompts
+- Built with FastAPI, Docker, and PostgreSQL
 
-## 🛠 Tech Stack
-Python, FastAPI, Docker, AWS EC2, PostgreSQL, React, TypeScript
+## Tech Stack
+- Python, FastAPI
+- React, TypeScript
+- Docker, AWS EC2
+- PostgreSQL
 
-## 📫 Links
-- GitHub: https://github.com/hirthikp
+## Links
 - LinkedIn: https://linkedin.com/in/hirthik-p-195737358
+- GitHub: https://github.com/hirthikp
